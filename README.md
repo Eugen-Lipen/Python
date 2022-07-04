@@ -1,1 +1,1 @@
-# Python
+# Tasks with codewars
